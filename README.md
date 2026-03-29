@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Vishruth</h1>
+<h3 align="center">Builder • Exploring AI Systems • Creating Real Products</h3>
 
-<!--
-**VishruthSai123/VishruthSai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=520&lines=Building+OpenHouse;Creating+SendRight;Developing+CodeEternal;Designing+Vibe+Platform" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- ⚡ Building **OpenHouse** — a platform-focused product (early-stage)  
+- 📩 Creating **SendRight** — focused on efficient communication workflows  
+- 💻 Developing **CodeEternal** — a system around coding & development experience  
+- 🌐 Designing **Vibe** — a modern social media platform concept  
+- 🧠 Exploring how AI can be integrated into real-world applications  
+- 🎯 Focused on execution, iteration, and turning ideas into working systems  
+
+---
+
+## 🧠 Philosophy
+
+```text
+I don’t build for theory.
+I build to make things work.
+
+Ideas don’t matter without execution.
+Shipping fast is the only advantage.
